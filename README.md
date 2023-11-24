@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @omareldery
 - 👀 I’m interested in ...Android development 
-- 🌱 I’m currently learning ...Android
+- 🌱 I’m currently learning ...Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
