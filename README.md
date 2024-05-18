@@ -1,10 +1,38 @@
-- 👋 Hi, I’m @omareldery
-- 👀 I’m interested in ...Android development 
-- 🌱 I’m currently working as entry level ...Flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# OmarAmmar
+Hi 👋, I'm Omar Khaled Ammar, a passionate Flutter Developer from Egypt.
 
-<!---
-omareldery/omareldery is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Current Work: I’m currently working as a junior developer.
+I’m currently learning Advanced Flutter Clean Architecture.
+
+I’m looking to collaborate with everyone who can help me and help him.
+I’m looking for help with Flutter Community.
+ask me about Mobile Development.
+
+How to reach me: omark4367@gmail.com.
+Social Media:
+GitHub: https://github.com/omareldery
+Dev: https://dev.to/omareldery
+LinkedIn: www.linkedin.com/in/omar-khaled-1632191b0
+
+Skills:
+OOP
+Data
+Structure
+Java
+Kotlin
+Flutter
+Dart
+Android
+C++
+Dart
+Firebase
+Git
+HTML5
+Illustrator
+Photoshop
+MySQL
+Python
+Postman
+XD
+
+
